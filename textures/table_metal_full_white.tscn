@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://cu5kdi81m6pry"]
-
-[ext_resource type="PackedScene" uid="uid://deisrrhmk3dx0" path="res://textures/Low-poly interior and electronics pack/Table/Table_Metal_Full_White.fbx" id="1_fiotk"]
-
-[node name="Table_Metal_Full_White" instance=ExtResource("1_fiotk")]
-
-[node name="Table_Metal_Full_White" parent="." index="0"]
-transform = Transform3D(0.992619, 0, 0, 0, 0.992619, 0, 0, 0, 0.992619, 0, 0, 0)
